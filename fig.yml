@@ -1,0 +1,8 @@
+web:
+  build: .
+  command: foreman start -d /usr/src/app
+  volumes:
+    - .:usr/src/app
+  ports:
+    - "3000:4567"
+
