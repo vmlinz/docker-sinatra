@@ -50,9 +50,15 @@ and
 vagrant ssh
 ```
 
+## Using fig
+
+```
+fig up
+```
+
 ## Reference
 
 - [OSX, Vagrant, Docker, and Sinatra | DYLI.SH](http://dyli.sh/2013/08/23/OSX-Vagrant-Docker-Sinatra.html)
 - [Sinatra deployment with Docker](http://haanto.com/sinatra-deployment-with-docker/)
-
+- [Ruby docker images](https://registry.hub.docker.com/_/ruby/)
 
